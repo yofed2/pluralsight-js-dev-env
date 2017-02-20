@@ -1,4 +1,4 @@
-import webpack from 'webpack';
+import webpack from 'webpack';  // eslint-disable-line
 import path from 'path';
 
 export default {
