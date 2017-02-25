@@ -15,8 +15,8 @@ install:
 test_script:
   # Output useful info for debuggin.
   - node --version
-  - npm -- version
-  # run test_script
+  - npm --version
+  # run tests
   - npm test
 
   # don't actually build.
